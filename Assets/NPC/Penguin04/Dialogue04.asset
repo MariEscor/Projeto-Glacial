@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 143e9e09ecf01d548b6a78469b6c696d, type: 3}
+  m_Name: Dialogue04
+  m_EditorClassIdentifier: 
+  npcName: ROGERIO
+  npcPortrait: {fileID: 1611970466183296693, guid: fc5c38a125636f44aa6b4888ae093c5c, type: 3}
+  dialogueLines:
+  - "Parab\xE9ns por chegar at\xE9 aqui!"
+  - "Voc\xEA ajudou os pinguins em v\xE1rias miss\xF5es e aprendeu muitas coisas
+    importantes sobre o meio ambiente."
+  - Mas antes de encerrarmos nossa aventura...
+  - "Quero descobrir se voc\xEA realmente lembra do que aprendeu!"
+  - "N\xE3o se preocupe! Ser\xE1 apenas um pequeno desafio com algumas perguntas."
+  - "Elas v\xE3o falar sobre tudo o que vimos durante nossa jornada"
+  - "Leia cada pergunta com aten\xE7\xE3o e escolha a resposta que achar correta."
+  - "Tenho certeza de que voc\xEA vai se sair muito bem! Vamos tentar?"
+  - Tudo bem! Quando estiver pronto, volte para testar seus conhecimentos.
+  autoProgressLines: 00000000000000000000
+  endDialogueLines: 000000000000000001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 5d54aacc23b383f438040686768e3ace, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 7
+    choices:
+    - SIM
+    - "N\xC3O"
+    nextDialogueIndexes: 0200000008000000
+    sceneToLoad:
+    - quiz
+  jumps: []

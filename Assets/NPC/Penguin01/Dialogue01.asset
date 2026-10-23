@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 143e9e09ecf01d548b6a78469b6c696d, type: 3}
+  m_Name: Dialogue01
+  m_EditorClassIdentifier: 
+  npcName: JORGE
+  npcPortrait: {fileID: -4093620233156422854, guid: 288eda788898db040a26631d6c3e4991, type: 3}
+  dialogueLines:
+  - "Ei! Voc\xEA veio ajudar o nosso planeta?"
+  - "Ent\xE3o preciso da sua ajuda em uma miss\xE3o importante!"
+  - Espalhamos algumas palavras especiais pelo gelo.
+  - Elas falam sobre o clima, a natureza e o meio ambiente.
+  - "Algumas dessas palavras s\xE3o: atmosfera, biodiversidade, aquecimento global,
+    preserva\xE7\xE3o, e polui\xE7\xE3o."
+  - "Elas estar\xE3o em um texto com informa\xE7\xF5es importantes."
+  - "Voc\xEA consegue encontrar todas elas no ca\xE7a-palavras?"
+  - "Ahh\u2026 tudo bem."
+  - "Mas essas palavras s\xE3o muito importantes para entendermos o que est\xE1 acontecendo
+    com o planeta."
+  - "Talvez voc\xEA mude de ideia depois!"
+  autoProgressLines: 000000000000000000
+  endDialogueLines: 00000000000000000001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 5d54aacc23b383f438040686768e3ace, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 6
+    choices:
+    - SIM
+    - NAO
+    nextDialogueIndexes: 0200000007000000
+    sceneToLoad:
+    - cacapalavras
+    - 
+  jumps: []

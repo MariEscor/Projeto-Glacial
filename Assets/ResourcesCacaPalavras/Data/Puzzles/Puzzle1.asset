@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0279cf1054c5cc94b8477f7d3069602e, type: 3}
+  m_Name: Puzzle1
+  m_EditorClassIdentifier: 
+  SearchWords:
+  - Word: EFEITOESTUFA
+  - Word: GASES
+  - Word: AQUECIMENTO
+  - Word: DERRETIMENTO
+  - Word: POLUICAO
+  - Word: ECOSSISTEMA
+  - Word: BIODIVERSIDADE
+  - Word: NATUREZA
+  - Word: PRESERVACAO
+  timeInSeconds: 0
+  Columns: 14
+  Rows: 14
+  Board:
+  - Size: 14
+    Row:
+    - D
+    - Q
+    - R
+    - B
+    - O
+    - F
+    - J
+    - Q
+    - M
+    - K
+    - J
+    - A
+    - S
+    - P
+  - Size: 14
+    Row:
+    - E
+    - F
+    - E
+    - I
+    - T
+    - O
+    - E
+    - S
+    - T
+    - U
+    - F
+    - A
+    - J
+    - R
+  - Size: 14
+    Row:
+    - R
+    - X
+    - I
+    - O
+    - A
+    - C
+    - O
+    - O
+    - T
+    - A
+    - F
+    - C
+    - K
+    - E
+  - Size: 14
+    Row:
+    - R
+    - D
+    - A
+    - D
+    - P
+    - J
+    - E
+    - L
+    - M
+    - W
+    - V
+    - O
+    - E
+    - S
+  - Size: 14
+    Row:
+    - E
+    - N
+    - Q
+    - I
+    - D
+    - O
+    - J
+    - V
+    - Y
+    - O
+    - K
+    - I
+    - C
+    - E
+  - Size: 14
+    Row:
+    - T
+    - B
+    - U
+    - V
+    - P
+    - E
+    - L
+    - V
+    - E
+    - U
+    - A
+    - L
+    - O
+    - R
+  - Size: 14
+    Row:
+    - I
+    - F
+    - E
+    - E
+    - P
+    - N
+    - R
+    - U
+    - J
+    - R
+    - W
+    - M
+    - S
+    - V
+  - Size: 14
+    Row:
+    - M
+    - A
+    - C
+    - R
+    - H
+    - M
+    - P
+    - V
+    - I
+    - D
+    - W
+    - N
+    - S
+    - A
+  - Size: 14
+    Row:
+    - E
+    - N
+    - I
+    - S
+    - D
+    - O
+    - S
+    - R
+    - G
+    - C
+    - O
+    - Z
+    - I
+    - C
+  - Size: 14
+    Row:
+    - N
+    - M
+    - M
+    - I
+    - U
+    - L
+    - Y
+    - I
+    - E
+    - F
+    - A
+    - O
+    - S
+    - A
+  - Size: 14
+    Row:
+    - T
+    - I
+    - E
+    - D
+    - A
+    - X
+    - I
+    - K
+    - W
+    - C
+    - O
+    - O
+    - T
+    - O
+  - Size: 14
+    Row:
+    - O
+    - Q
+    - N
+    - A
+    - H
+    - G
+    - A
+    - S
+    - E
+    - S
+    - G
+    - N
+    - E
+    - G
+  - Size: 14
+    Row:
+    - A
+    - G
+    - T
+    - D
+    - P
+    - C
+    - B
+    - O
+    - Y
+    - F
+    - U
+    - H
+    - M
+    - O
+  - Size: 14
+    Row:
+    - R
+    - T
+    - O
+    - E
+    - B
+    - N
+    - A
+    - T
+    - U
+    - R
+    - E
+    - Z
+    - A
+    - N

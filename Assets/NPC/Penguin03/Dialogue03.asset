@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 143e9e09ecf01d548b6a78469b6c696d, type: 3}
+  m_Name: Dialogue03
+  m_EditorClassIdentifier: 
+  npcName: FLORINDA
+  npcPortrait: {fileID: 6261838875085568562, guid: 34906105a12a4154ab24f0626b448094, type: 3}
+  dialogueLines:
+  - "Voc\xEA est\xE1 indo muito bem! Agora temos mais uma miss\xE3o importante."
+  - "Mesmo longe da Ant\xE1rtida, o lixo produzido pelos humanos tamb\xE9m afeta
+    a natureza."
+  - "Quando o lixo \xE9 jogado no lugar errado, rios, mares e animais podem ser prejudicados."
+  - "Por isso a reciclagem \xE9 t\xE3o importante! Ela ajuda a reduzir a polui\xE7\xE3o
+    e reaproveitar materiais."
+  - "Neste desafio, voc\xEA dever\xE1 separar os res\xEDduos nas lixeiras corretas."
+  - "Papel vai na lixeira de papel. Vidro vai na lixeira de vidro. Metal vai na lixeira
+    de metal. E pl\xE1stico vai na lixeira de pl\xE1stico!"
+  - "Parece f\xE1cil\u2026 mas \xE9 preciso prestar bastante aten\xE7\xE3o!"
+  - "Voc\xEA consegue ajudar a deixar o planeta mais limpo?"
+  - "Que pena\u2026 Separar o lixo corretamente ajuda muito o planeta."
+  - "Espero que voc\xEA tente depois!"
+  autoProgressLines: 00000000000000000000
+  endDialogueLines: 00000000000000000001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 5d54aacc23b383f438040686768e3ace, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 7
+    choices:
+    - SIM
+    - "N\xC3O"
+    nextDialogueIndexes: 0200000008000000
+    sceneToLoad:
+    - reciclagem
+    - 
+  jumps: []

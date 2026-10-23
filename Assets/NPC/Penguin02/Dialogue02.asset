@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 143e9e09ecf01d548b6a78469b6c696d, type: 3}
+  m_Name: Dialogue02
+  m_EditorClassIdentifier: 
+  npcName: ROBERTINHO
+  npcPortrait: {fileID: 3686962169364992275, guid: 3ef1fa89641669a4b83e2f3d661a7601, type: 3}
+  dialogueLines:
+  - Muito bem!
+  - "Voc\xEA j\xE1 aprendeu bastante sobre o nosso problema."
+  - Mas agora precisamos agir!
+  - "A temperatura do planeta precisa ficar em equil\xEDbrio. Algumas atitudes ajudam
+    a natureza."
+  - Outras acabam aumentando ainda mais o aquecimento global.
+  - "Neste desafio, v\xE1rios objetos v\xE3o cair do c\xE9u."
+  - "Voc\xEA deve coletar apenas os itens que ajudam o meio ambiente! Bicicletas
+    e pain\xE9is solares s\xE3o boas escolhas."
+  - "Eles ajudam a reduzir a polui\xE7\xE3o."
+  - "Mas cuidado com carros poluentes e f\xE1bricas cheias de fuma\xE7a! Esses objetos
+    fazem a temperatura aumentar."
+  - "Est\xE1 preparado para equilibrar a temperatura do planeta?"
+  - "Tudo bem\u2026 Mas o planeta precisa muito de ajuda."
+  - "Talvez voc\xEA queira tentar depois!"
+  autoProgressLines: 000000000000000000000000
+  endDialogueLines: 000000000000000000000001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 5d54aacc23b383f438040686768e3ace, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 9
+    choices:
+    - SIM
+    - "N\xC3O"
+    nextDialogueIndexes: 070000000a000000
+    sceneToLoad:
+    - coleta
+  jumps: []

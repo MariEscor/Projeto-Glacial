@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 486a125a06859204082599b1effa1111
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1272724081198526277
+    second: CategoryUnlocked_0
+  - first:
+      213: 5747774976600964998
+    second: CategoryUnlocked_1
+  - first:
+      213: 4679206228860098976
+    second: CategoryUnlocked_2
+  - first:
+      213: -574205701476785183
+    second: CategoryUnlocked_3
+  - first:
+      213: 1889091291642397913
+    second: CategoryUnlocked_4
+  - first:
+      213: 4562629970757165059
+    second: CategoryUnlocked_5
+  - first:
+      213: 2477478545737134288
+    second: CategoryUnlocked_6
+  - first:
+      213: 8525496239364623868
+    second: CategoryUnlocked_7
+  - first:
+      213: 3429343171696768862
+    second: CategoryUnlocked_8
+  - first:
+      213: 4109853750705979747
+    second: CategoryUnlocked_9
+  - first:
+      213: 7383444477561733828
+    second: CategoryUnlocked_10
+  - first:
+      213: -4946728352371619459
+    second: CategoryUnlocked_11
+  - first:
+      213: -3522024006945142056
+    second: CategoryUnlocked_12
+  - first:
+      213: 4306011485781761847
+    second: CategoryUnlocked_13
+  - first:
+      213: -3162260223693867209
+    second: CategoryUnlocked_14
+  - first:
+      213: 1325070069994366606
+    second: CategoryUnlocked_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CategoryUnlocked_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193
+        width: 80
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0931bf030665ee0800000000000000
+      internalID: -1272724081198526277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 193
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68ffd2163e234cf40800000000000000
+      internalID: 5747774976600964998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_2
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 193
+        width: 100
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9500e0641efe040800000000000000
+      internalID: 4679206228860098976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 193
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e87fe4f20808f0800000000000000
+      internalID: -574205701476785183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 193
+        width: 96
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d401aa5586673a10800000000000000
+      internalID: 1889091291642397913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 193
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3002888d8c7b15f30800000000000000
+      internalID: 4562629970757165059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_6
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 193
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d030517c95c16220800000000000000
+      internalID: 2477478545737134288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_7
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 193
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdc141e8a5a05670800000000000000
+      internalID: 8525496239364623868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57b5e9f179779f20800000000000000
+      internalID: 3429343171696768862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_9
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 0
+        width: 97
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36103a91632290930800000000000000
+      internalID: 4109853750705979747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_10
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 0
+        width: 76
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c203e712a3477660800000000000000
+      internalID: 7383444477561733828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_11
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 0
+        width: 103
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79498cb5c0b95bb0800000000000000
+      internalID: -4946728352371619459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_12
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 0
+        width: 81
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da03af73d14f1fc0800000000000000
+      internalID: -3522024006945142056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_13
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 89
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f16c0d1a602cb30800000000000000
+      internalID: 4306011485781761847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_14
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 77
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7373167b4156d14d0800000000000000
+      internalID: -3162260223693867209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CategoryUnlocked_15
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 0
+        width: 88
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8624884538936210800000000000000
+      internalID: 1325070069994366606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CategoryUnlocked_0: -1272724081198526277
+      CategoryUnlocked_1: 5747774976600964998
+      CategoryUnlocked_10: 7383444477561733828
+      CategoryUnlocked_11: -4946728352371619459
+      CategoryUnlocked_12: -3522024006945142056
+      CategoryUnlocked_13: 4306011485781761847
+      CategoryUnlocked_14: -3162260223693867209
+      CategoryUnlocked_15: 1325070069994366606
+      CategoryUnlocked_2: 4679206228860098976
+      CategoryUnlocked_3: -574205701476785183
+      CategoryUnlocked_4: 1889091291642397913
+      CategoryUnlocked_5: 4562629970757165059
+      CategoryUnlocked_6: 2477478545737134288
+      CategoryUnlocked_7: 8525496239364623868
+      CategoryUnlocked_8: 3429343171696768862
+      CategoryUnlocked_9: 4109853750705979747
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

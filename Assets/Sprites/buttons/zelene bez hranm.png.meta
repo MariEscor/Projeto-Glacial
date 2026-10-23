@@ -1,0 +1,2522 @@
+fileFormatVersion: 2
+guid: 0299ada078633c848bda334b8bc3e205
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6495842840871026643
+    second: zelene bez hranm_0
+  - first:
+      213: 577715720058040738
+    second: zelene bez hranm_1
+  - first:
+      213: -5907784496674351903
+    second: zelene bez hranm_2
+  - first:
+      213: 171065082817761295
+    second: zelene bez hranm_3
+  - first:
+      213: -7414794339168680967
+    second: zelene bez hranm_4
+  - first:
+      213: -4073218608015358398
+    second: zelene bez hranm_5
+  - first:
+      213: -5304719618144445726
+    second: zelene bez hranm_6
+  - first:
+      213: -587145878701143519
+    second: zelene bez hranm_7
+  - first:
+      213: 8747689359432946586
+    second: zelene bez hranm_8
+  - first:
+      213: -5713042714174377808
+    second: zelene bez hranm_9
+  - first:
+      213: 4625185586783300822
+    second: zelene bez hranm_10
+  - first:
+      213: 1845033122387628947
+    second: zelene bez hranm_11
+  - first:
+      213: 5138464268505934338
+    second: zelene bez hranm_12
+  - first:
+      213: -6890981336173507519
+    second: zelene bez hranm_13
+  - first:
+      213: -6680417164096141356
+    second: zelene bez hranm_14
+  - first:
+      213: -2965238812566968376
+    second: zelene bez hranm_15
+  - first:
+      213: 3663921567282206266
+    second: zelene bez hranm_16
+  - first:
+      213: -4296754165500430756
+    second: zelene bez hranm_17
+  - first:
+      213: -1148869253023032025
+    second: zelene bez hranm_18
+  - first:
+      213: 3857080155276723320
+    second: zelene bez hranm_19
+  - first:
+      213: -1981213419905803986
+    second: zelene bez hranm_20
+  - first:
+      213: 3413167618163483993
+    second: zelene bez hranm_21
+  - first:
+      213: 6197027827744808678
+    second: zelene bez hranm_22
+  - first:
+      213: 2624523005615814381
+    second: zelene bez hranm_23
+  - first:
+      213: 2689263850967308673
+    second: zelene bez hranm_24
+  - first:
+      213: -7210878495891779067
+    second: zelene bez hranm_25
+  - first:
+      213: 8364367539145240074
+    second: zelene bez hranm_26
+  - first:
+      213: 2705864716211903304
+    second: zelene bez hranm_27
+  - first:
+      213: 4757764216510822390
+    second: zelene bez hranm_28
+  - first:
+      213: 2573751847584852403
+    second: zelene bez hranm_29
+  - first:
+      213: 2961311821200532312
+    second: zelene bez hranm_30
+  - first:
+      213: -5789708470696028964
+    second: zelene bez hranm_31
+  - first:
+      213: 5869649981988498862
+    second: zelene bez hranm_32
+  - first:
+      213: -3050116752052873979
+    second: zelene bez hranm_33
+  - first:
+      213: 2506143010781889582
+    second: zelene bez hranm_34
+  - first:
+      213: -3388239079987316701
+    second: zelene bez hranm_35
+  - first:
+      213: 3203974912359753125
+    second: zelene bez hranm_36
+  - first:
+      213: 1207871816003690037
+    second: zelene bez hranm_37
+  - first:
+      213: 7249590906125915050
+    second: zelene bez hranm_38
+  - first:
+      213: -7185544727824451376
+    second: zelene bez hranm_39
+  - first:
+      213: -3663968927804986003
+    second: zelene bez hranm_40
+  - first:
+      213: -8763621789412422356
+    second: zelene bez hranm_41
+  - first:
+      213: -7496416240584292228
+    second: zelene bez hranm_42
+  - first:
+      213: -7195447072046609094
+    second: zelene bez hranm_43
+  - first:
+      213: 9022603836214945986
+    second: zelene bez hranm_44
+  - first:
+      213: 4574287917144830504
+    second: zelene bez hranm_45
+  - first:
+      213: -410803022908139567
+    second: zelene bez hranm_46
+  - first:
+      213: 1440536040248723662
+    second: zelene bez hranm_47
+  - first:
+      213: 6924393007429269363
+    second: zelene bez hranm_48
+  - first:
+      213: 54898966184842423
+    second: zelene bez hranm_49
+  - first:
+      213: -4459041634862237984
+    second: zelene bez hranm_50
+  - first:
+      213: 8843166546069438917
+    second: zelene bez hranm_51
+  - first:
+      213: 6892716079298198787
+    second: zelene bez hranm_52
+  - first:
+      213: 8071936898443993175
+    second: zelene bez hranm_53
+  - first:
+      213: -2343964577117733257
+    second: zelene bez hranm_54
+  - first:
+      213: -7251968786454067839
+    second: zelene bez hranm_55
+  - first:
+      213: -6229279575442925038
+    second: zelene bez hranm_56
+  - first:
+      213: 6810147680307037011
+    second: zelene bez hranm_57
+  - first:
+      213: 2969703882421889925
+    second: zelene bez hranm_58
+  - first:
+      213: -4800238657750942990
+    second: zelene bez hranm_59
+  - first:
+      213: -7214362467786370323
+    second: zelene bez hranm_60
+  - first:
+      213: -6504962905355561763
+    second: zelene bez hranm_61
+  - first:
+      213: 460004572962507228
+    second: zelene bez hranm_62
+  - first:
+      213: -2784380744352286913
+    second: zelene bez hranm_63
+  - first:
+      213: -1547997442757910445
+    second: zelene bez hranm_64
+  - first:
+      213: -6661302597815255463
+    second: zelene bez hranm_65
+  - first:
+      213: 7759662444319180735
+    second: zelene bez hranm_66
+  - first:
+      213: 7560507967999255942
+    second: zelene bez hranm_67
+  - first:
+      213: -3320950838815201530
+    second: zelene bez hranm_68
+  - first:
+      213: -1220041911810186802
+    second: zelene bez hranm_69
+  - first:
+      213: 3679718612016894006
+    second: zelene bez hranm_70
+  - first:
+      213: -1671246519527872631
+    second: zelene bez hranm_71
+  - first:
+      213: 8412853460902184087
+    second: zelene bez hranm_72
+  - first:
+      213: 8874884774177762373
+    second: zelene bez hranm_73
+  - first:
+      213: -8424038012600154076
+    second: zelene bez hranm_74
+  - first:
+      213: 2134980477464861462
+    second: zelene bez hranm_75
+  - first:
+      213: 5011009900110433356
+    second: zelene bez hranm_76
+  - first:
+      213: -3129391383526250182
+    second: zelene bez hranm_77
+  - first:
+      213: 8294145622419703018
+    second: zelene bez hranm_78
+  - first:
+      213: -507981045066336526
+    second: zelene bez hranm_79
+  - first:
+      213: 7304821662879917691
+    second: zelene bez hranm_80
+  - first:
+      213: 2676069039791983163
+    second: zelene bez hranm_81
+  - first:
+      213: -6080456871675974084
+    second: zelene bez hranm_82
+  - first:
+      213: 579409694243078383
+    second: zelene bez hranm_83
+  - first:
+      213: -8316430867771880303
+    second: zelene bez hranm_84
+  - first:
+      213: 4237571005360876824
+    second: zelene bez hranm_85
+  - first:
+      213: 5018876396022007054
+    second: zelene bez hranm_86
+  - first:
+      213: 2179873350229491994
+    second: zelene bez hranm_87
+  - first:
+      213: -8923100911844228681
+    second: zelene bez hranm_88
+  - first:
+      213: -8974681714895725635
+    second: zelene bez hranm_89
+  - first:
+      213: 4759047697548587175
+    second: zelene bez hranm_90
+  - first:
+      213: -4619904083514197765
+    second: zelene bez hranm_91
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zelene bez hranm_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 351
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dfb1e6b5aed52a50800000000000000
+      internalID: 6495842840871026643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 351
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1f733f265740800800000000000000
+      internalID: 577715720058040738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 351
+        width: 96
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e45a221d45530ea0800000000000000
+      internalID: -5907784496674351903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0053d659cebf5200800000000000000
+      internalID: 171065082817761295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_4
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 345
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f3064375db591990800000000000000
+      internalID: -7414794339168680967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 349
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246cbb0c1450977c0800000000000000
+      internalID: -4073218608015358398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_6
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 349
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea5477ec99d166b0800000000000000
+      internalID: -5304719618144445726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_7
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 349
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a0fa42fe90ad7f0800000000000000
+      internalID: -587145878701143519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_8
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 343
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93177a0029066970800000000000000
+      internalID: 8747689359432946586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 343
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0b003abe137b0b0800000000000000
+      internalID: -5713042714174377808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_10
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 321
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dca97039c5ff2040800000000000000
+      internalID: 4625185586783300822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_11
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 321
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3939eb279dfda9910800000000000000
+      internalID: 1845033122387628947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_12
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 321
+        width: 96
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a6557070e7f4740800000000000000
+      internalID: 5138464268505934338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_13
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c08871cf05e50a0800000000000000
+      internalID: -6890981336173507519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_14
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 311
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d780aecbf36a43a0800000000000000
+      internalID: -6680417164096141356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_15
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 319
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7aebea20b59d6d0800000000000000
+      internalID: -2965238812566968376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_16
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 319
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a369fbec04dd8d230800000000000000
+      internalID: 3663921567282206266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_17
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 319
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56ba260adcde54c0800000000000000
+      internalID: -4296754165500430756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_18
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 309
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d913850856e00f0800000000000000
+      internalID: -1148869253023032025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_19
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 309
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8744a7d27f9178530800000000000000
+      internalID: 3857080155276723320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_20
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 291
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29174a34e05184e0800000000000000
+      internalID: -1981213419905803986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_21
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 291
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955208f6dd10e5f20800000000000000
+      internalID: 3413167618163483993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 291
+        width: 96
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee90ffd9f3400650800000000000000
+      internalID: 6197027827744808678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_23
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6329ea4cd2c6420800000000000000
+      internalID: 2624523005615814381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_24
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 277
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1899430693f225520800000000000000
+      internalID: 2689263850967308673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_25
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 289
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5021edd7630ddeb90800000000000000
+      internalID: -7210878495891779067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_26
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 289
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e6f85e5f3341470800000000000000
+      internalID: 8364367539145240074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_27
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 289
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bd2148f992d8520800000000000000
+      internalID: 2705864716211903304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_28
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 275
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f73132e859f60240800000000000000
+      internalID: 4757764216510822390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_29
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 275
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9ec474badc7b320800000000000000
+      internalID: 2573751847584852403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 261
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853a2d36961b81920800000000000000
+      internalID: 2961311821200532312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 261
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd4d71332d2d6afa0800000000000000
+      internalID: -5789708470696028964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_32
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 261
+        width: 96
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead6d445f8f257150800000000000000
+      internalID: 5869649981988498862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_33
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5059b6669fecba5d0800000000000000
+      internalID: -3050116752052873979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_34
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 243
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e248bf94acb97c220800000000000000
+      internalID: 2506143010781889582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_35
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 259
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3287247228e8af0d0800000000000000
+      internalID: -3388239079987316701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_36
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 259
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a56778153ec67c20800000000000000
+      internalID: 3203974912359753125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_37
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 259
+        width: 96
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e1b1f540933c010800000000000000
+      internalID: 1207871816003690037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_38
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 241
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa39986e488bb9460800000000000000
+      internalID: 7249590906125915050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_39
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 241
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8b7540421d74c90800000000000000
+      internalID: -7185544727824451376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_40
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 231
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6d6d163ca7f62dc0800000000000000
+      internalID: -3663968927804986003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_41
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 231
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d03380a6c516680800000000000000
+      internalID: -8763621789412422356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_42
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78018b952167f790800000000000000
+      internalID: -7496416240584292228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_43
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 209
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d8986d203a42c90800000000000000
+      internalID: -7195447072046609094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_44
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 229
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c82bae926ab63d70800000000000000
+      internalID: 9022603836214945986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_45
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 229
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82277c100a22b7f30800000000000000
+      internalID: 4574287917144830504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_46
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 207
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d757e2c3d88c4af0800000000000000
+      internalID: -410803022908139567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_47
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 207
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec84c2575efcdf310800000000000000
+      internalID: 1440536040248723662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_48
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 201
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3773505d0c2681060800000000000000
+      internalID: 6924393007429269363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 201
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b4dbf1a15a03c000800000000000000
+      internalID: 54898966184842423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_50
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6fb53124d4e12c0800000000000000
+      internalID: -4459041634862237984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_51
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 175
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c1461cde1d39ba70800000000000000
+      internalID: 8843166546069438917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_52
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 199
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d313441c8d7af50800000000000000
+      internalID: 6892716079298198787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_53
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 199
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7506f1997d7450070800000000000000
+      internalID: 8071936898443993175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_54
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 173
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e7ccec2a0987fd0800000000000000
+      internalID: -2343964577117733257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_55
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 173
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1854f21bfc4db5b90800000000000000
+      internalID: -7251968786454067839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_56
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 171
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ad023fa372d89a0800000000000000
+      internalID: -6229279575442925038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_57
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 171
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353c6a8cb31828e50800000000000000
+      internalID: 6810147680307037011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_58
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bead762f1863920800000000000000
+      internalID: 2969703882421889925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_59
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 141
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa38af9f50226db0800000000000000
+      internalID: -4800238657750942990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_60
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 169
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2dea21f8f61eb90800000000000000
+      internalID: -7214362467786370323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_61
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 169
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4503dc3bab9b5a0800000000000000
+      internalID: -6504962905355561763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_62
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 139
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd94c7ec8b3426600800000000000000
+      internalID: 460004572962507228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_63
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 139
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37b17d1774eb59d0800000000000000
+      internalID: -2784380744352286913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 141
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350a3370788648ae0800000000000000
+      internalID: -1547997442757910445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_65
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 141
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eb5d3949c4e83a0800000000000000
+      internalID: -6661302597815255463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_66
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 139
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7859271ebdfab60800000000000000
+      internalID: 7759662444319180735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_67
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 139
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6852b1a80f15ce860800000000000000
+      internalID: 7560507967999255942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_68
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 111
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60762e7aecc99e1d0800000000000000
+      internalID: -3320950838815201530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_69
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 111
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec12773685a811fe0800000000000000
+      internalID: -1220041911810186802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_70
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63019a6e49cf01330800000000000000
+      internalID: 3679718612016894006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 107
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 987ee67252a8ec8e0800000000000000
+      internalID: -1671246519527872631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_72
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 109
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7948d7446a570c470800000000000000
+      internalID: 8412853460902184087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_73
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 109
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c63635eace92b70800000000000000
+      internalID: 8874884774177762373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_74
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 105
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428849c5f0ec71b80800000000000000
+      internalID: -8424038012600154076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_75
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 105
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bdfa1ce69f0ad10800000000000000
+      internalID: 2134980477464861462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_76
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 81
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c4c0664feaa8540800000000000000
+      internalID: 5011009900110433356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_77
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 81
+        width: 82
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39efbded1b2294d0800000000000000
+      internalID: -3129391383526250182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_78
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae400b3df79ba1370800000000000000
+      internalID: 8294145622419703018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_79
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 73
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f670305ee943f8f0800000000000000
+      internalID: -507981045066336526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_80
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 79
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76298b8990ff5560800000000000000
+      internalID: 7304821662879917691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_81
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 79
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ac83ffc9e432520800000000000000
+      internalID: 2676069039791983163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_82
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 71
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3eababd0b0ed9ba0800000000000000
+      internalID: -6080456871675974084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_83
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 71
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0c6cc0c0a7a0800800000000000000
+      internalID: 579409694243078383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_84
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c0d57203a169c80800000000000000
+      internalID: -8316430867771880303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_85
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81da705b060eeca30800000000000000
+      internalID: 4237571005360876824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_86
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 39
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e050c74bd71a6a540800000000000000
+      internalID: 5018876396022007054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_87
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 49
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1105c73347704e10800000000000000
+      internalID: 2179873350229491994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_88
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 37
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b18f8e4ff6ca2480800000000000000
+      internalID: -8923100911844228681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_89
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 37
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb527bb786837380800000000000000
+      internalID: -8974681714895725635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_90
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 21
+        width: 74
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a036899aa88b0240800000000000000
+      internalID: 4759047697548587175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zelene bez hranm_91
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 19
+        width: 76
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf872cd96bdc2efb0800000000000000
+      internalID: -4619904083514197765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      zelene bez hranm_0: 6495842840871026643
+      zelene bez hranm_1: 577715720058040738
+      zelene bez hranm_10: 4625185586783300822
+      zelene bez hranm_11: 1845033122387628947
+      zelene bez hranm_12: 5138464268505934338
+      zelene bez hranm_13: -6890981336173507519
+      zelene bez hranm_14: -6680417164096141356
+      zelene bez hranm_15: -2965238812566968376
+      zelene bez hranm_16: 3663921567282206266
+      zelene bez hranm_17: -4296754165500430756
+      zelene bez hranm_18: -1148869253023032025
+      zelene bez hranm_19: 3857080155276723320
+      zelene bez hranm_2: -5907784496674351903
+      zelene bez hranm_20: -1981213419905803986
+      zelene bez hranm_21: 3413167618163483993
+      zelene bez hranm_22: 6197027827744808678
+      zelene bez hranm_23: 2624523005615814381
+      zelene bez hranm_24: 2689263850967308673
+      zelene bez hranm_25: -7210878495891779067
+      zelene bez hranm_26: 8364367539145240074
+      zelene bez hranm_27: 2705864716211903304
+      zelene bez hranm_28: 4757764216510822390
+      zelene bez hranm_29: 2573751847584852403
+      zelene bez hranm_3: 171065082817761295
+      zelene bez hranm_30: 2961311821200532312
+      zelene bez hranm_31: -5789708470696028964
+      zelene bez hranm_32: 5869649981988498862
+      zelene bez hranm_33: -3050116752052873979
+      zelene bez hranm_34: 2506143010781889582
+      zelene bez hranm_35: -3388239079987316701
+      zelene bez hranm_36: 3203974912359753125
+      zelene bez hranm_37: 1207871816003690037
+      zelene bez hranm_38: 7249590906125915050
+      zelene bez hranm_39: -7185544727824451376
+      zelene bez hranm_4: -7414794339168680967
+      zelene bez hranm_40: -3663968927804986003
+      zelene bez hranm_41: -8763621789412422356
+      zelene bez hranm_42: -7496416240584292228
+      zelene bez hranm_43: -7195447072046609094
+      zelene bez hranm_44: 9022603836214945986
+      zelene bez hranm_45: 4574287917144830504
+      zelene bez hranm_46: -410803022908139567
+      zelene bez hranm_47: 1440536040248723662
+      zelene bez hranm_48: 6924393007429269363
+      zelene bez hranm_49: 54898966184842423
+      zelene bez hranm_5: -4073218608015358398
+      zelene bez hranm_50: -4459041634862237984
+      zelene bez hranm_51: 8843166546069438917
+      zelene bez hranm_52: 6892716079298198787
+      zelene bez hranm_53: 8071936898443993175
+      zelene bez hranm_54: -2343964577117733257
+      zelene bez hranm_55: -7251968786454067839
+      zelene bez hranm_56: -6229279575442925038
+      zelene bez hranm_57: 6810147680307037011
+      zelene bez hranm_58: 2969703882421889925
+      zelene bez hranm_59: -4800238657750942990
+      zelene bez hranm_6: -5304719618144445726
+      zelene bez hranm_60: -7214362467786370323
+      zelene bez hranm_61: -6504962905355561763
+      zelene bez hranm_62: 460004572962507228
+      zelene bez hranm_63: -2784380744352286913
+      zelene bez hranm_64: -1547997442757910445
+      zelene bez hranm_65: -6661302597815255463
+      zelene bez hranm_66: 7759662444319180735
+      zelene bez hranm_67: 7560507967999255942
+      zelene bez hranm_68: -3320950838815201530
+      zelene bez hranm_69: -1220041911810186802
+      zelene bez hranm_7: -587145878701143519
+      zelene bez hranm_70: 3679718612016894006
+      zelene bez hranm_71: -1671246519527872631
+      zelene bez hranm_72: 8412853460902184087
+      zelene bez hranm_73: 8874884774177762373
+      zelene bez hranm_74: -8424038012600154076
+      zelene bez hranm_75: 2134980477464861462
+      zelene bez hranm_76: 5011009900110433356
+      zelene bez hranm_77: -3129391383526250182
+      zelene bez hranm_78: 8294145622419703018
+      zelene bez hranm_79: -507981045066336526
+      zelene bez hranm_8: 8747689359432946586
+      zelene bez hranm_80: 7304821662879917691
+      zelene bez hranm_81: 2676069039791983163
+      zelene bez hranm_82: -6080456871675974084
+      zelene bez hranm_83: 579409694243078383
+      zelene bez hranm_84: -8316430867771880303
+      zelene bez hranm_85: 4237571005360876824
+      zelene bez hranm_86: 5018876396022007054
+      zelene bez hranm_87: 2179873350229491994
+      zelene bez hranm_88: -8923100911844228681
+      zelene bez hranm_89: -8974681714895725635
+      zelene bez hranm_9: -5713042714174377808
+      zelene bez hranm_90: 4759047697548587175
+      zelene bez hranm_91: -4619904083514197765
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 143e9e09ecf01d548b6a78469b6c696d, type: 3}
+  m_Name: Dialogue00
+  m_EditorClassIdentifier: 
+  npcName: ARNALDO
+  npcPortrait: {fileID: -4093620233156422854, guid: f57abdd29ac4e9a449229706d902055b, type: 3}
+  dialogueLines:
+  - "Ol\xE1, viajante! Ainda bem que voc\xEA chegou!"
+  - "Nosso lar est\xE1 mudando muito r\xE1pido\u2026 N\xF3s, pinguins-imperadores,
+    vivemos aqui no gelo h\xE1 muitos e muitos anos."
+  - "O gelo \xE9 onde descansamos, brincamos e cuidamos dos nossos filhotes."
+  - "Mas agora ele est\xE1 come\xE7ando a derreter\u2026 E isso est\xE1 deixando
+    todos n\xF3s preocupados."
+  - "Voc\xEA j\xE1 ouviu falar sobre o efeito estufa?"
+  - "Ent\xE3o voc\xEA j\xE1 sabe um pouco sobre o problema."
+  - O efeito estufa acontece quando alguns gases ficam presos na atmosfera e seguram
+    o calor do Sol.
+  - "Isso \xE9 importante para a Terra n\xE3o ficar gelada demais. Mas os humanos
+    est\xE3o produzindo gases em excesso."
+  - "Carros, f\xE1bricas, queimadas e polui\xE7\xE3o aumentam esse calor."
+  - "Com o planeta mais quente, o gelo come\xE7a a derreter. E sem gelo\u2026 muitos
+    animais podem perder seu lar."
+  - "N\xE3o tem problema! Eu posso explicar."
+  - A Terra possui uma camada de gases ao redor dela chamada atmosfera.
+  - Alguns desses gases ajudam a guardar o calor do Sol. Isso se chama efeito estufa.
+  - "O problema \xE9 que os humanos est\xE3o aumentando esses gases demais."
+  - "Com mais calor preso no planeta, a temperatura aumenta. E o gelo da Ant\xE1rtida
+    come\xE7a a derreter."
+  - "Muitos animais dependem do gelo para sobreviver. Inclusive n\xF3s, os pinguins-imperadores!"
+  - "Mas ainda h\xE1 esperan\xE7a. Pequenas atitudes podem ajudar o planeta."
+  - "E voc\xEA pode nos ajudar nessa miss\xE3o!"
+  - Explore o mapa e converse com os outros pinguins.
+  autoProgressLines: 00000000000000000000000000000000000000
+  endDialogueLines: 00000000000000000000000000000000000001
+  autoProgressDelay: 1.5
+  typingSpeed: 0.05
+  voiceSound: {fileID: 8300000, guid: 5d54aacc23b383f438040686768e3ace, type: 3}
+  voicePitch: 1
+  choices:
+  - dialogueIndex: 4
+    choices:
+    - SIM
+    - "N\xC3O"
+    nextDialogueIndexes: 050000000a000000
+    sceneToLoad:
+    - 
+    - 
+  jumps:
+  - fromIndex: 9
+    toIndex: 15
